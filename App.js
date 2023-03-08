@@ -7,7 +7,7 @@ import { MaterialCommunityIcons } from '@expo/vector-icons';
 function HomeScreen() {
   return (
     <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
-      <Text>Home!</Text>
+      <Text>Home</Text>
     </View>
   );
 }
@@ -15,7 +15,7 @@ function HomeScreen() {
 function AboutScreen() {
   return (
     <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
-      <Text>About!</Text>
+      <Text>About</Text>
     </View>
   );
 }
@@ -23,7 +23,7 @@ function AboutScreen() {
 function ContactScreen() {
   return (
     <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
-      <Text>Contact!</Text>
+      <Text>Contact</Text>
     </View>
   );
 }
